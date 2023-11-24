@@ -1,0 +1,7 @@
+C:\Users\biacs\OneDrive\Termomecânica\Projeto_Limites\Projeto_Limites\bin\Debug\Projeto_Limites.exe.config
+C:\Users\biacs\OneDrive\Termomecânica\Projeto_Limites\Projeto_Limites\bin\Debug\Projeto_Limites.exe
+C:\Users\biacs\OneDrive\Termomecânica\Projeto_Limites\Projeto_Limites\bin\Debug\Projeto_Limites.pdb
+C:\Users\biacs\OneDrive\Termomecânica\Projeto_Limites\Projeto_Limites\obj\Debug\Projeto_Limites.csprojAssemblyReference.cache
+C:\Users\biacs\OneDrive\Termomecânica\Projeto_Limites\Projeto_Limites\obj\Debug\Projeto_Limites.csproj.CoreCompileInputs.cache
+C:\Users\biacs\OneDrive\Termomecânica\Projeto_Limites\Projeto_Limites\obj\Debug\Projeto_Limites.exe
+C:\Users\biacs\OneDrive\Termomecânica\Projeto_Limites\Projeto_Limites\obj\Debug\Projeto_Limites.pdb
